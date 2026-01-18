@@ -1,4 +1,5 @@
 # 💫 About Me:
+First grade Aviation & Aerospace engineering student from Ukraine. 15 y.o.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vladimir_Martynov) 
